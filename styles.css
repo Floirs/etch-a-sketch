@@ -9,6 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background-color: white;
 }
 
 .header {
@@ -47,7 +48,6 @@ body {
     width: 18px;
     height: 18px;
     flex: 0 0 auto;
-    border: 1px solid black;
 }
 
 .square.clicked {
